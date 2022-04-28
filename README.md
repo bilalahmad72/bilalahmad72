@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flutter99
 - 👀 I’m working as a Flutter Frontend Developer.
-- 🌱 I’m currently learning flutter backend Development.
+- 🌱 I’m currently learning App Backend Development with Firebase and APIs Integration.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
