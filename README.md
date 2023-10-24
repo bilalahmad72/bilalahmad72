@@ -58,7 +58,7 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=flutter99)](https://github.com/flutter99/github-profile-trophy)
 
-![Dynamic stats](https://github-readme-stats.vercel.app/api?username=flutter99&count_private=true&show_icons=true&theme=radical)
+[![Bilal's GitHub stars](https://github-readme-stats.vercel.app/api?username=flutter99&show_icons=true)](https://github.com/flutter99?tab=stars)
 
 ---
 
