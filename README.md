@@ -56,7 +56,7 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 
 Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
-* **Portfolio:** [Codify Design Agency](https://codifydesign.com)
+* **Portfolio:** [Codify Design Agency](https://www.upwork.com/agencies/1652213117175799808/)
 * **Upwork:** [Bilal's Upwork Profile](https://www.upwork.com/freelancers/bilalahmad72)
 * **Fiverr:** [Bilal's Fiverr Profile](https://www.fiverr.com/bilalahmad72)
 * **LinkedIn:** [Bilal Ahmad](https://www.linkedin.com/in/freelancer-bilalahmad72)
