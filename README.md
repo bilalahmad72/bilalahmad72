@@ -56,6 +56,8 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 
 ![Profile views](https://komarev.com/ghpvc/?username=flutter99)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=flutter99)](https://github.com/flutter99/github-profile-trophy)
+
 ---
 
 ### 🤝 Let's Connect!
