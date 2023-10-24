@@ -52,7 +52,7 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flutter99&layout=compact)](https://github.com/flutter99/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flutter99)](https://github.com/flutter99)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flutter99)](https://skillypro.com/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=flutter99)
 
