@@ -10,7 +10,8 @@ I'm a passionate Mobile App Developer with an extensive experience of 4 years sp
 
 Not only am I skilled in coding, but I also have a creative side with 2 years of experience in UI/UX design using Figma. My dual skill set of detailed-oriented design and precision in programming allow me to handle projects from concept to completion, ensuring high levels of quality in both aesthetics and functionality.
 
-🔥 I've proudly pushed 200 repositories to GitHub, actively showcasing my ongoing projects and my unwavering commitment to continuous learning and growth.
+🔥 🔥 I've proudly pushed 200 repositories to GitHub, demonstrating my active engagement in various projects and my steadfast commitment to continuous learning and growth. It's worth noting that most of these repositories are private, as I frequently work on confidential projects that require discretion. Nonetheless, I'm on a daily grind, consistently challenging myself with different projects!
+
 
 ---
 
