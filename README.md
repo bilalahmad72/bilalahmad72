@@ -56,10 +56,6 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 
 [![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=flutter99&theme=react-dark)](https://github.com/flutter99/github-readme-activity-graph)
 
-![Profile views](https://komarev.com/ghpvc/?username=flutter99)
-
-[Check out my GitHub Skyline](https://skyline.github.com/flutter99/2023)
-
 ---
 
 ### 🤝 Let's Connect!
