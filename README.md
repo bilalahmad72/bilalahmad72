@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @flutter99
-- 👀 I’m working as a Flutter Frontend Developer.
-- 🌱 I’m currently learning App Backend Development with Firebase and APIs Integration.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bilal Ahmad
+- 👀 I’m working as a Flutter Developer.
+- 🌱 Top Rated Seller on both Fiverr and Upwork.
+- 💞️ 4+ Years experience in Mobile App Development.
+- 📫 Visit our website: https://www.skillypro.com/
 
 <!---
 flutter99/flutter99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
