@@ -54,7 +54,7 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flutter99)](https://git.io/streak-stats)
 
-[![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=flutter99&theme=react-dark)](https://github.com/flutter99/github-readme-activity-graph)
+![Profile views](https://komarev.com/ghpvc/?username=flutter99)
 
 ---
 
