@@ -29,6 +29,10 @@ Not only am I skilled in coding, but I also have a creative side with 2 years of
 ### 💡 Projects I Can Help You With
 
 * **MVP Development:** Transforming your idea into a Minimum Viable Product for both Android and iOS platforms.
+* **Chat Applications:** Crafting engaging and responsive messaging apps for real-time communication.
+* **Social Media Applications:** Building dynamic platforms for social networking, content sharing, and community building.
+* **SAAS (Software as a Service) Based Applications:** Developing scalable and customizable cloud-based solutions for businesses.
+* **Chat GPT API Integrated Applications:** Leveraging the power of AI to enhance user experience with smart, conversational interfaces.
 * **E-commerce Apps:** Crafting custom, user-friendly e-commerce solutions to boost your online presence and sales.
 * **Business Apps:** Developing professional applications tailored for your business needs.
 * **Savings & Finance Apps:** Building secure and efficient financial applications.
