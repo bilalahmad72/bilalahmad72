@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bilal Ahmad!
 
-## 🌟 Top Rated Freelancer | 📱 Flutter Developer & UI/UX Expert | 💼 Codify Design Agency
+## 🌟 Top Rated Freelancer | 📱 Flutter Developer & UI/UX Expert
 
 ---
 
