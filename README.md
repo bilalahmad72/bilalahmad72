@@ -42,7 +42,7 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
 * **Upwork:** [Bilal's Upwork Profile](https://www.upwork.com/freelancers/bilalahmad72)
 * **LinkedIn:** [Bilal Ahmad](https://www.linkedin.com/in/freelancer-bilalahmad72)
 
-**Email:** bilal@codifydesign.com
+**Email:** bilalahmad72.official@gmail.com
 
 ⭐ From [bilalahmad](https://github.com/flutter99)
 
