@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Bilal Ahmad!
 
-## 🌟 Top Rated Freelancer | 📱 Flutter Developer & UI/UX Expert
+## 🌟 Top Rated Freelancer | 📱Expert Flutter Developer & UI/UX Designer
 
 ---
 
