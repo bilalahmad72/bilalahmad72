@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5ejJnODhyZHd5aW12Zm8yYWtka3hwbGVldXNmeHJmcG5kbHZ6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif)" width="100"/>
+</div>
+
 # 👋 Hi there, I'm Bilal Ahmad!
 
 ## 🌟 Top Rated Freelancer | 📱 Flutter Developer & UI/UX Expert
