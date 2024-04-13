@@ -46,7 +46,7 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
 
 ⭐ From [bilalahmad](https://github.com/flutter99)
 
-
+![YourUserName's github stats](https://github-readme-stats.vercel.app/api?username=bilalahmad72&show_icons=true&theme=radical)
 
 <!---
 flutter99/flutter99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
