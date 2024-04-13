@@ -1,9 +1,7 @@
 
 # 👋 Hi there, I'm Bilal Ahmad!
 
-## 🌟 Top Rated Freelancer | 📱 Flutter Developer & UI/UX Expert  <div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVoMnpobmRxZ2RlY2JyaGVnYXU0N293bWwzZTZqbTByMWc0N3N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" width="50"/>
-</div>
+## 🌟 Top Rated Freelancer | 📱 Flutter Developer & UI/UX Expert  <div id="header" align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVoMnpobmRxZ2RlY2JyaGVnYXU0N293bWwzZTZqbTByMWc0N3N1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" width="50"/></div>
 
 ---
 
