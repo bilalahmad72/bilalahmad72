@@ -35,6 +35,33 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 ---
 
+### :computer: Programming Languages and Frameworks
+- Flutter
+- Dart
+- JavaScript
+
+### :fire: Backend as a Service (BaaS)
+- Firebase
+
+### :cloud: Cloud Infrastructure
+- AWS (Amazon Web Services)
+
+### :twisted_rightwards_arrows: Version Control
+- Git
+- Bitbucket
+- GitLab
+
+### :art: UI/UX Design
+- Figma
+
+### :memo: Project and Knowledge Management
+- Notion
+- Trello
+
+### :speech_balloon: Communication
+- Slack
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
