@@ -40,64 +40,73 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 - Dart
 - JavaScript
 
+<br />
 <div>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
-
+<br />
 
 ### :fire: Backend as a Service (BaaS)
 - Firebase
 
+<br />
 <div>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
-
+<br />
 
 ### :cloud: Cloud Infrastructure
 - AWS (Amazon Web Services)
 
+<br />
 <div>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-
+<br />
 
 ### :twisted_rightwards_arrows: Version Control
 - Git
 - Bitbucket
 - GitLab
 
+<br />
 <div>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>&nbsp;
 </div>
+<br />
 
 ### :art: UI/UX Design
 - Figma
 
+<br />
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+<br />
 
 ### :memo: Project and Knowledge Management
 - Notion
 - Trello
 
+<br />
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>&nbsp;
 </div>
-
+<br />
 
 ### :speech_balloon: Communication
 - Slack
 
+<br />
 <div> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
 </div>
+<br />
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
