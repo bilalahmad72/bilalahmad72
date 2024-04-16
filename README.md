@@ -36,7 +36,7 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 ---
 
 ### :computer: Programming Languages and Frameworks
-- Flutter
+- Flutter <div>  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> </div>
 - Dart
 - JavaScript
 
@@ -61,8 +61,6 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 ### :speech_balloon: Communication
 - Slack
 
-
-### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
