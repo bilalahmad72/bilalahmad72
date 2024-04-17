@@ -57,12 +57,13 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 </div>
 <br />
 
-### :cloud: Cloud Infrastructure
-- AWS (Amazon Web Services)
+### :gear: API Testing Tools
+
+- Postman
 
 <br />
-<div>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<div> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 <br />
 
