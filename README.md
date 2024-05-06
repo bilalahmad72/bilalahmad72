@@ -16,6 +16,7 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 * **API Integration:** Capable of integrating various APIs to achieve seamless functionality across platforms.
 * **Firebase:** Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
 * **Project Management Tools:** Adept in GitLab, Bitbucket, and Trello for streamlined development processes.
+* **CI/CD Pipeline:** Proficient in setting up and managing CI/CD pipelines using GitHub Actions for automated testing and deployment processes.
 
 ---
 
