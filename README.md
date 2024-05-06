@@ -15,8 +15,22 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 * **Mobile App Development:** Expert in Flutter; proficient in creating high-quality iOS and Android apps.
 * **API Integration:** Capable of integrating various APIs to achieve seamless functionality across platforms.
 * **Firebase:** Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
-* **Project Management Tools:** Adept in GitLab, Bitbucket, and Trello for streamlined development processes.
 * **CI/CD Pipeline:** Proficient in setting up and managing CI/CD pipelines using GitHub Actions for automated testing and deployment processes.
+
+---
+
+### :twisted_rightwards_arrows: Version Control
+Git: Core system for distributed version control.
+GitHub: Enhances collaboration with features like issue tracking and GitHub Actions for CI/CD.
+GitLab: Comprehensive devops platform with integrated CI/CD.
+Bitbucket: Tailored for teams, integrates with Jira and Trello, includes Bitbucket Pipelines.
+
+---
+
+### :memo: Project and Knowledge Management
+Trello: Visual project management tool using boards, lists, and cards with automation features.
+Notion: Versatile workspace for note-taking, managing projects, and data handling.
+Slack: Communication hub for teams, supporting file sharing and tool integrations.
 
 ---
 
