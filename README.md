@@ -20,17 +20,17 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 ---
 
 ### :twisted_rightwards_arrows: Version Control
-Git: Core system for distributed version control.
-GitHub: Enhances collaboration with features like issue tracking and GitHub Actions for CI/CD.
-GitLab: Comprehensive devops platform with integrated CI/CD.
-Bitbucket: Tailored for teams, integrates with Jira and Trello, includes Bitbucket Pipelines.
+* **Git:** Core system for distributed version control.
+* **GitHub:** Enhances collaboration with features like issue tracking and GitHub Actions for CI/CD.
+* **GitLab:** Comprehensive devops platform with integrated CI/CD.
+* **Bitbucket:** Tailored for teams, integrates with Jira and Trello, includes Bitbucket Pipelines.
 
 ---
 
 ### :memo: Project and Knowledge Management
-Trello: Visual project management tool using boards, lists, and cards with automation features.
-Notion: Versatile workspace for note-taking, managing projects, and data handling.
-Slack: Communication hub for teams, supporting file sharing and tool integrations.
+* **Trello:** Visual project management tool using boards, lists, and cards with automation features.
+* **Notion:** Versatile workspace for note-taking, managing projects, and data handling.
+* **Slack:** Communication hub for teams, supporting file sharing and tool integrations.
 
 ---
 
