@@ -44,10 +44,6 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fiverr_logo_2020.svg" alt="Fiverr" width="40" height="40"/>
 </a> &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank">
-  <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-</a>
-
 </div>
 
 </div>
@@ -91,7 +87,9 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 <div>
     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freelancer-bilalahmad72) 
+<a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank">
+  <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 </div> 
 
