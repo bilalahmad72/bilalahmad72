@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bilal Ahmad!
+# Hello, I'm Bilal Ahmad! 👋 
 
 ## 🌟 Top Rated Freelancer | 📱Expert Flutter Developer & UI/UX Designer
 
@@ -8,10 +8,12 @@
 
 I'm a passionate Flutter App Developer with an extensive experience of 3 years specializing in Flutter, known for thriving in dynamic environments and for my agility in coding. As a Top Rated Freelancer on platforms like Upwork and Fiverr, I've had the privilege to transform numerous ideas into high-performing, feature-packed mobile applications.
 
----
+### Languages and Tools:
 
-### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 ---
