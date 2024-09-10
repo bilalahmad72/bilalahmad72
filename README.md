@@ -8,9 +8,7 @@
 
 I'm a passionate Flutter App Developer with an extensive experience of 3 years specializing in Flutter, known for thriving in dynamic environments and for my agility in coding. As a Top Rated Freelancer on platforms like Upwork and Fiverr, I've had the privilege to transform numerous ideas into high-performing, feature-packed mobile applications.
 
-<br><br>
-
-Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
+# Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 <div>
     
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
