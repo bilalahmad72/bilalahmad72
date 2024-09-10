@@ -30,9 +30,25 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 #### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 <div>
     
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
-[![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/bilalferoze99)  &nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bilalahmad72)
+<div>
+    
+<a href="https://www.upwork.com/freelancers/bilalahmad72" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-upwork-an-american-freelance-marketplace-logo-color-tal-revivo.png" alt="Upwork" width="40" height="40"/>
+</a> &nbsp;&nbsp;
+
+<a href="https://www.freelancer.com/u/bilalferoze99" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/500/freelancer.png" alt="Freelancer" width="40" height="40"/>
+</a> &nbsp;&nbsp;
+
+<a href="https://www.fiverr.com/bilalahmad72" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fiverr_logo_2020.svg" alt="Fiverr" width="40" height="40"/>
+</a> &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank">
+  <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+</div>
 
 </div>
 
