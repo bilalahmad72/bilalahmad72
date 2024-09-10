@@ -81,13 +81,15 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 ### 🤝 Let's Connect!
 
 Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
-* [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  
-* [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/)  
+<div>
+    
+* [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
+* [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/)  &nbsp;
 * [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bilalahmad72)
 
-* **Upwork:** [Contact Me!](https://www.upwork.com/freelancers/bilalahmad72)
-* **LinkedIn:** [Follow Me](https://www.linkedin.com/in/freelancer-bilalahmad72) <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Slack" **alt="Slack" width="30" height="30"/>
+</div>
 
+* **LinkedIn:** [Follow Me](https://www.linkedin.com/in/freelancer-bilalahmad72)
 **Email:** bilalahmad72.official@gmail.com
 
 
