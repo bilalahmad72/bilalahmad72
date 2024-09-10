@@ -17,22 +17,16 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 * **Firebase:** Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
 * **CI/CD Pipeline:** Proficient in setting up and managing CI/CD pipelines using GitHub Actions for automated testing and deployment processes.
 
----
-
 ### :twisted_rightwards_arrows: Version Control
 * **Git:** Core system for distributed version control.
 * **GitHub:** Enhances collaboration with features like issue tracking and GitHub Actions for CI/CD.
 * **GitLab:** Comprehensive devops platform with integrated CI/CD.
 * **Bitbucket:** Tailored for teams, integrates with Jira and Trello, includes Bitbucket Pipelines.
 
----
-
 ### :memo: Project and Knowledge Management
 * **Trello:** Visual project management tool using boards, lists, and cards with automation features.
 * **Notion:** Versatile workspace for note-taking, managing projects, and data handling.
 * **Slack:** Communication hub for teams, supporting file sharing and tool integrations.
-
----
 
 ### 💡 Projects I Can Help You With
 
@@ -96,10 +90,6 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freelancer-bilalahmad72) 
 
 </div> 
-
-<br><br>
-
-**Email:** bilalahmad72.official@gmail.com
 
 
 <!---
