@@ -85,12 +85,12 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
     
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
 [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/)  &nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bilalahmad72)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.freelancer.com/u/bilalferoze99)
 
 </div>
 
-* **LinkedIn:** [Follow Me](https://www.linkedin.com/in/freelancer-bilalahmad72)
-**Email:** bilalahmad72.official@gmail.com
+* **LinkedIn:** [![Follow Me](https://www.linkedin.com/in/freelancer-bilalahmad72)]
+* **Email:** bilalahmad72.official@gmail.com
 
 
 <!---
