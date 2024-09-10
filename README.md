@@ -78,7 +78,9 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 <br><br>
 
-<center>⭐️ Show some ❤️ by starring some of the repositories!</center>
+<div style="text-align: center;"> 
+  ###  ⭐️ Show some ❤️ by starring some of the repositories! 
+</div>
 
 <!---
 bilalahmad72/bilalahmad72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
