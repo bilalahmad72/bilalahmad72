@@ -1,5 +1,3 @@
-## Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank"> Bilal Ahmad! </a> 👋 
-
 ### Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank"> Bilal Ahmad! </a> 👋  ( Top Rated Freelancer | Expert Flutter Developer & UI/UX Designer )
 
 #### 📖 About Me
