@@ -89,7 +89,8 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
 
 </div>
 
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freelancer-bilalahmad72)
+* **Follow Me!:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freelancer-bilalahmad72) <br>
+
 * **Email:** bilalahmad72.official@gmail.com
 
 
