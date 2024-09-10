@@ -1,12 +1,12 @@
-# Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank"> Bilal Ahmad! </a> 👋 
+## Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank"> Bilal Ahmad! </a> 👋 
 
-## 🌟 Top Rated Freelancer | 📱Expert Flutter Developer & UI/UX Designer
+### 🌟 Top Rated Freelancer | 📱Expert Flutter Developer & UI/UX Designer
 
-### 📖 About Me
+#### 📖 About Me
 
 I'm a passionate Flutter App Developer with an extensive experience of 3 years specializing in Flutter, known for thriving in dynamic environments and for my agility in coding. As a Top Rated Freelancer on platforms like Upwork and Fiverr, I've had the privilege to transform numerous ideas into high-performing, feature-packed mobile applications.
 
-### :computer: Programming Languages and Frameworks
+#### :computer: Programming Languages and Frameworks
 
 <br />
 <div>  
@@ -39,25 +39,25 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 ---
 
-### 🛠️ Skills & Expertise
+#### 🛠️ Skills & Expertise
 
 * **Mobile App Development:** Expert in Flutter; proficient in creating high-quality iOS and Android apps.
 * **API Integration:** Capable of integrating various APIs to achieve seamless functionality across platforms.
 * **Firebase:** Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
 * **CI/CD Pipeline:** Proficient in setting up and managing CI/CD pipelines using GitHub Actions for automated testing and deployment processes.
 
-### :twisted_rightwards_arrows: Version Control
+#### :twisted_rightwards_arrows: Version Control
 * **Git:** Core system for distributed version control.
 * **GitHub:** Enhances collaboration with features like issue tracking and GitHub Actions for CI/CD.
 * **GitLab:** Comprehensive devops platform with integrated CI/CD.
 * **Bitbucket:** Tailored for teams, integrates with Jira and Trello, includes Bitbucket Pipelines.
 
-### :memo: Project and Knowledge Management
+#### :memo: Project and Knowledge Management
 * **Trello:** Visual project management tool using boards, lists, and cards with automation features.
 * **Notion:** Versatile workspace for note-taking, managing projects, and data handling.
 * **Slack:** Communication hub for teams, supporting file sharing and tool integrations.
 
-### 💡 Projects I Can Help You With
+#### 💡 Projects I Can Help You With
 
 * **MVP Development:** Transforming your idea into a Minimum Viable Product for both Android and iOS platforms.
 * **Chat Applications:** Crafting engaging and responsive messaging apps for real-time communication.
@@ -72,7 +72,7 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 * **Custom Applications:** Just pitch your idea, and I'll bring it to life!
 
 
-### 🤝 Let's Connect & Follow Me!
+#### 🤝 Let's Connect & Follow Me!
 
 <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank">
   <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 8px;"/> 
