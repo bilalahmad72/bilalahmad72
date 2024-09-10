@@ -59,19 +59,19 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 <br />
 <div>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" **alt="Bitbucket" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="24" height="24"/> </t>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" **alt="Trello" width="24" height="24"/> </t>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" **alt="Bitbucket" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" **alt="Notion" width="24" height="24"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" **alt="Trello" width="24" height="24"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="24" height="24"/>
 </div>
 <br />
