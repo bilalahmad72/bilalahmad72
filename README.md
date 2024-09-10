@@ -1,8 +1,8 @@
 ## Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank"> Bilal Ahmad! </a> 👋  
 
-#### 📖 About Me
+### 🌟 Top Rated Freelancer | 📱 Expert Flutter Developer | 👨🏻‍💻 UI/UX Designer 
 
-##### ( Top Rated Freelancer | Expert Flutter Developer & UI/UX Designer )
+#### 📖 About Me
 
 I'm a passionate Flutter App Developer with an extensive experience of 3 years specializing in Flutter, known for thriving in dynamic environments and for my agility in coding. As a Top Rated Freelancer on platforms like Upwork and Fiverr, I've had the privilege to transform numerous ideas into high-performing, feature-packed mobile applications.
 
