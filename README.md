@@ -78,8 +78,8 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 <br><br>
 
-<div style="text-align: center; font-weight: bold;">
-    ⭐️ Show some ❤️ by starring some of the repositories!
+<div align="center">
+  <p>⭐️ Show some ❤️ by starring some of the repositories! ⭐️</p>
 </div>
 
 <!---
