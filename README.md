@@ -76,7 +76,7 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank">
   <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;"/> 
-  <span style="vertical-align: middle;">LinkedIn</span>
+  <span style="horizontal-align: middle;">Follow Me!</span>
 </a>
 
 
