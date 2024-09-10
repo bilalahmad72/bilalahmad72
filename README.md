@@ -9,7 +9,7 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 ### :computer: Programming Languages and Frameworks
 
 <br />
-<div align = "center">  
+<div>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/> &nbsp;
@@ -29,7 +29,7 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 ### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
     
-<div align = "center">
+<div">
     
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
 [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/bilalferoze99)  &nbsp;
