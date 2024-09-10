@@ -82,8 +82,8 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
-* **Upwork:** [Bilal's Upwork Profile](https://www.upwork.com/freelancers/bilalahmad72)
-* **LinkedIn:** [Bilal Ahmad](https://www.linkedin.com/in/freelancer-bilalahmad72)
+* **Upwork:** [Contact Me!](https://www.upwork.com/freelancers/bilalahmad72)
+* **LinkedIn:** [Follow Me](https://www.linkedin.com/in/freelancer-bilalahmad72)
 
 **Email:** bilalahmad72.official@gmail.com
 
