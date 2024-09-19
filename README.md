@@ -37,8 +37,6 @@ I'm a passionate Flutter App Developer with an extensive experience of 3 years s
 
 </div>
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OWNER/REPOSITORY)
-
 
 ---
 
