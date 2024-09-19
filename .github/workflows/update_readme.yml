@@ -1,0 +1,35 @@
+name: Update README with PR Count
+
+on:
+  schedule:
+    # Runs every day at 12:00 AM UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allows you to manually run the workflow.
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Count all Pull Requests made by bilalahmad72
+      run: |
+        PR_COUNT=$(gh search prs --author bilalahmad72 --count)
+        echo "Total PRs: $PR_COUNT"
+        echo "PR_COUNT=$PR_COUNT" >> $GITHUB_ENV
+
+    - name: Update README
+      run: |
+        sed -i "s/<!--PR_COUNT-->.*/<!--PR_COUNT-->Total PRs: $PR_COUNT/" README.md
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m "Updated PR count"
+        git push
+
