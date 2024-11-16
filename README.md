@@ -36,7 +36,7 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 
 ## 🌐 Frontend Development
 <br/>
-Bringing your designs to life with clean and responsive code using modern frontend technologies like HTML, CSS, and frameworks like Bootstrap and Tailwind CSS.
+<p> Bringing your designs to life with clean and responsive code using modern frontend technologies like HTML, CSS, and frameworks like Bootstrap and Tailwind CSS.</p>
 <br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/> &nbsp; 
@@ -50,7 +50,7 @@ Bringing your designs to life with clean and responsive code using modern fronte
 
 ## 🎨 UI/UX Design
 <br/>
-Crafting user-friendly, visually appealing designs using Figma and other design tools.
+<p> Crafting user-friendly, visually appealing designs using Figma and other design tools.</p>
 <br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/> &nbsp; 
