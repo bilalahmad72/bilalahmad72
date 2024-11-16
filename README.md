@@ -19,7 +19,6 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 
 ## 📱 App Development
 
-<br/>
 <p> I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.</p>
 
 <div> 
@@ -35,7 +34,6 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 <br />
 
 ## 🌐 Frontend Development
-<br/>
 <p> Bringing your designs to life with clean and responsive code using modern frontend technologies like HTML, CSS, and frameworks like Bootstrap and Tailwind CSS.</p>
 <br/>
 <div> 
@@ -49,7 +47,6 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 <br />
 
 ## 🎨 UI/UX Design
-<br/>
 <p> Crafting user-friendly, visually appealing designs using Figma and other design tools.</p>
 <br/>
 <div> 
