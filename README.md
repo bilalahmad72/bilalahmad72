@@ -8,6 +8,8 @@ I'm a passionate Flutter App Developer and Frontend Developer with over 3 years 
 
 I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional!
 
+<br/>
+
 ### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
 <div>
@@ -17,8 +19,8 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.freelancer.com/bilalahmad72)  &nbsp;
 
 </div>
+<br/>
 
-<br>
 ## 📱 App Development
 
 I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.
@@ -33,13 +35,13 @@ I specialize in building cross-platform mobile apps with Flutter, integrating AP
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="30" height="30"/> &nbsp; 
 </div>
 
-
 <br />
 
 ## 🌐 Frontend Development
 
 Bringing your designs to life with clean and responsive code using modern frontend technologies like HTML, CSS, and frameworks like Bootstrap and Tailwind CSS.
 
+<br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30"/> &nbsp; 
@@ -54,6 +56,7 @@ Bringing your designs to life with clean and responsive code using modern fronte
 
 Crafting user-friendly, visually appealing designs using Figma and other design tools.
 
+<br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="30" height="30"/> &nbsp; 
@@ -63,22 +66,24 @@ Crafting user-friendly, visually appealing designs using Figma and other design 
 
 <br />
 
-<br />
 ### 🌟 Why Choose Me?
-✔️ Top Rated Freelancer on platforms like Upwork and Fiverr
-✔️ Expertise in mobile app development, frontend development, and UI/UX design
-✔️ Deliver clean, modular, and scalable code
-✔️ Skilled in responsive web and app design
-✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase
+✔️ Top Rated Freelancer on platforms like Upwork and Fiverr &nbsp; 
+✔️ Expertise in mobile app development, frontend development, and UI/UX design &nbsp; 
+✔️ Deliver clean, modular, and scalable code&nbsp; 
+✔️ Skilled in responsive web and app design&nbsp; 
+✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase&nbsp; 
 
+
+<br />
 Feel free to reach out for collaborations or inquiries about your next big project! 😊
 
+<br />
 
 #### 🤝 Let's Connect & Follow Me!
 
 [![Follow Me!](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freelancer-bilalahmad72)
 
-<br><br>
+<br/><br/>
 
 <div align="center">
   <p>⭐️ Show some ❤️ by starring some of the repositories! ⭐️</p>
