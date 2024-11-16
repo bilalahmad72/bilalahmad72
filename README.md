@@ -1,12 +1,63 @@
 # Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank"> Bilal Ahmad! </a> 👋  
 
-### 🌟 Top-Rated Flutter Developer |  📱 Frontend Developer | 👨🏻‍💻 UI/UX Designer 
+### 🌟 Top-Rated Flutter Developer | 📱 Frontend Developer | 🎨 UI/UX Designer
 
 ### 📖 About Me
 
-I'm a passionate Flutter App Developer with an extensive experience of 3 years specializing in Flutter, known for thriving in dynamic environments and for my agility in coding. As a Top Rated Freelancer on platforms like Upwork and Fiverr, I've had the privilege to transform numerous ideas into high-performing, feature-packed mobile applications.
+I'm a passionate Flutter App Developer and Frontend Developer with over 3 years of experience, specializing in creating visually appealing, high-performing, and feature-rich mobile and web applications. As a Top Rated Freelancer on Upwork and Fiverr, I've helped numerous clients bring their ideas to life with clean, modular code and cutting-edge design.
+
+I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional!
+
+### 🛠️ Skills & Expertise
 
 ### :computer: Programming Languages and Frameworks
+
+## 📱 App Development
+
+I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.
+
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="30" height="30"/> &nbsp; 
+</div>
+
+## 🌐 Frontend Development
+
+Bringing your designs to life with clean and responsive code using modern frontend technologies like HTML, CSS, and frameworks like Bootstrap and Tailwind CSS.
+
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30"/> &nbsp; 
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/> &nbsp; 
+</div>
+
+## 🎨 UI/UX Design
+
+Crafting user-friendly, visually appealing designs using Figma and other design tools.
+
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="30" height="30"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="30" height="30"/> &nbsp; 
+</div>
+
+### 🌟 Why Choose Me?
+✔️ Top Rated Freelancer on platforms like Upwork and Fiverr
+✔️ Expertise in mobile app development, frontend development, and UI/UX design
+✔️ Deliver clean, modular, and scalable code
+✔️ Skilled in responsive web and app design
+✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase
+
+Feel free to reach out for collaborations or inquiries about your next big project! 😊
+
 
 <br />
 <div>  
