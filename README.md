@@ -8,8 +8,7 @@ I'm a passionate Flutter App Developer and Frontend Developer with over 3 years 
 
 I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional!
 
-### 🛠️ Skills & Expertise
-<br />
+# 🛠️ Skills & Expertise
 
 ## 📱 App Development
 
@@ -53,15 +52,7 @@ Crafting user-friendly, visually appealing designs using Figma and other design 
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="30" height="30"/> &nbsp; 
 </div>
 
-### 🌟 Why Choose Me?
-✔️ Top Rated Freelancer on platforms like Upwork and Fiverr
-✔️ Expertise in mobile app development, frontend development, and UI/UX design
-✔️ Deliver clean, modular, and scalable code
-✔️ Skilled in responsive web and app design
-✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase
-
-Feel free to reach out for collaborations or inquiries about your next big project! 😊
-
+<br />
 
 ### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
@@ -73,40 +64,15 @@ Feel free to reach out for collaborations or inquiries about your next big proje
 
 </div>
 
+<br />
+### 🌟 Why Choose Me?
+✔️ Top Rated Freelancer on platforms like Upwork and Fiverr
+✔️ Expertise in mobile app development, frontend development, and UI/UX design
+✔️ Deliver clean, modular, and scalable code
+✔️ Skilled in responsive web and app design
+✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase
 
----
-
-#### 🛠️ Skills & Expertise
-
-* **Mobile App Development:** Expert in Flutter; proficient in creating high-quality iOS and Android apps.
-* **API Integration:** Capable of integrating various APIs to achieve seamless functionality across platforms.
-* **Firebase:** Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
-* **CI/CD Pipeline:** Proficient in setting up and managing CI/CD pipelines using GitHub Actions for automated testing and deployment processes.
-
-#### :twisted_rightwards_arrows: Version Control
-* **Git:** Core system for distributed version control.
-* **GitHub:** Enhances collaboration with features like issue tracking and GitHub Actions for CI/CD.
-* **GitLab:** Comprehensive devops platform with integrated CI/CD.
-* **Bitbucket:** Tailored for teams, integrates with Jira and Trello, includes Bitbucket Pipelines.
-
-#### :memo: Project and Knowledge Management
-* **Trello:** Visual project management tool using boards, lists, and cards with automation features.
-* **Notion:** Versatile workspace for note-taking, managing projects, and data handling.
-* **Slack:** Communication hub for teams, supporting file sharing and tool integrations.
-
-#### 💡 Projects I Can Help You With
-
-* **MVP Development:** Transforming your idea into a Minimum Viable Product for both Android and iOS platforms.
-* **Chat Applications:** Crafting engaging and responsive messaging apps for real-time communication.
-* **Social Media Applications:** Building dynamic platforms for social networking, content sharing, and community building.
-* **SAAS (Software as a Service) Based Applications:** Developing scalable and customizable cloud-based solutions for businesses.
-* **Chat GPT API Integrated Applications:** Leveraging the power of AI to enhance user experience with smart, conversational interfaces.
-* **E-commerce Apps:** Crafting custom, user-friendly e-commerce solutions to boost your online presence and sales.
-* **Business Apps:** Developing professional applications tailored for your business needs.
-* **Savings & Finance Apps:** Building secure and efficient financial applications.
-* **Health & Fitness Apps:** Creating motivational health and wellness apps to encourage a better lifestyle.
-* **Map Navigation Apps:** Developing real-time, accurate, and interactive navigation applications.
-* **Custom Applications:** Just pitch your idea, and I'll bring it to life!
+Feel free to reach out for collaborations or inquiries about your next big project! 😊
 
 
 #### 🤝 Let's Connect & Follow Me!
