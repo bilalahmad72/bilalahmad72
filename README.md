@@ -8,8 +8,17 @@ I'm a passionate Flutter App Developer and Frontend Developer with over 3 years 
 
 I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional!
 
-# 🛠️ Skills & Expertise
+### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
+<div>
+    
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
+[![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/bilalferoze99)  &nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.freelancer.com/bilalahmad72)  &nbsp;
+
+</div>
+
+<br>
 ## 📱 App Development
 
 I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.
@@ -53,16 +62,6 @@ Crafting user-friendly, visually appealing designs using Figma and other design 
 </div>
 
 <br />
-
-### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
-
-<div>
-    
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
-[![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/bilalferoze99)  &nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.freelancer.com/bilalahmad72)  &nbsp;
-
-</div>
 
 <br />
 ### 🌟 Why Choose Me?
