@@ -4,9 +4,9 @@
 
 ### 📖 About Me
 
-I'm a passionate Flutter App Developer and Frontend Developer with over 3 years of experience, specializing in creating visually appealing, high-performing, and feature-rich mobile and web applications. As a Top Rated Freelancer on Upwork and Fiverr, I've helped numerous clients bring their ideas to life with clean, modular code and cutting-edge design.
+<p> I'm a passionate Flutter App Developer and Frontend Developer with over 3 years of experience, specializing in creating visually appealing, high-performing, and feature-rich mobile and web applications. As a Top Rated Freelancer on Upwork and Fiverr, I've helped numerous clients bring their ideas to life with clean, modular code and cutting-edge design.
 
-I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional!
+I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional! </p>
 
 <div>
     
@@ -20,8 +20,8 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 ## 📱 App Development
 
 <br/>
-I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.
-<br/>
+<p> I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.</p>
+
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/> &nbsp; 
