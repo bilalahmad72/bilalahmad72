@@ -20,7 +20,7 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 ## 📱 App Development
 
 <p> I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.</p>
-
+<br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/> &nbsp; 
