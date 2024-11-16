@@ -67,15 +67,11 @@ Crafting user-friendly, visually appealing designs using Figma and other design 
 <br />
 
 ### 🌟 Why Choose Me?
-✔️ Top Rated Freelancer on platforms like Upwork and Fiverr &nbsp; 
-✔️ Expertise in mobile app development, frontend development, and UI/UX design &nbsp; 
-✔️ Deliver clean, modular, and scalable code&nbsp; 
-✔️ Skilled in responsive web and app design&nbsp; 
-✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase&nbsp; 
-
-
-<br />
-Feel free to reach out for collaborations or inquiries about your next big project! 😊
+<p>✔️ Top Rated Freelancer on platforms like Upwork and Fiverr</p>
+<p>✔️ Expertise in mobile app development, frontend development, and UI/UX design </p>
+<p>✔️ Deliver clean, modular, and scalable code</p>
+<p>✔️ Skilled in responsive web and app design</p>
+<p>✔️ Proficient in tools like Git, Bitbucket, GitLab, Postman, and Firebase</p>
 
 <br />
 
