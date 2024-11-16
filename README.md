@@ -40,7 +40,7 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30"/> &nbsp; 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/> &nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/> &nbsp; 
+<img src="https://iconduck.com/icons/28029/tailwind-css" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/> &nbsp; 
 </div>
 
