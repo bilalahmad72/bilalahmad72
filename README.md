@@ -8,10 +8,6 @@ I'm a passionate Flutter App Developer and Frontend Developer with over 3 years 
 
 I thrive in dynamic environments and take pride in delivering pixel-perfect user experiences. Whether you're looking for an app developer, a frontend expert, or a UI/UX designer, I'm your go-to professional!
 
-<br/>
-
-### Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
-
 <div>
     
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
@@ -23,8 +19,9 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 
 ## 📱 App Development
 
+<br/>
 I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.
-
+<br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> &nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="30" height="30"/> &nbsp; 
@@ -38,9 +35,8 @@ I specialize in building cross-platform mobile apps with Flutter, integrating AP
 <br />
 
 ## 🌐 Frontend Development
-
+<br/>
 Bringing your designs to life with clean and responsive code using modern frontend technologies like HTML, CSS, and frameworks like Bootstrap and Tailwind CSS.
-
 <br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/> &nbsp; 
@@ -53,9 +49,8 @@ Bringing your designs to life with clean and responsive code using modern fronte
 <br />
 
 ## 🎨 UI/UX Design
-
+<br/>
 Crafting user-friendly, visually appealing designs using Figma and other design tools.
-
 <br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/> &nbsp; 
