@@ -12,7 +12,7 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
     
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bilalahmad72)  &nbsp;
 [![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/bilalferoze99)  &nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.freelancer.com/bilalahmad72)  &nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bilalahmad72)  &nbsp;
 
 </div>
 <br/>
