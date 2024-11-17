@@ -19,7 +19,7 @@ I thrive in dynamic environments and take pride in delivering pixel-perfect user
 
 ## 📱 App Development
 
-<p> I specialize in building cross-platform mobile apps with Flutter, integrating APIs, and using Firebase for backend services.</p>
+<p> I specialize in building cross-platform mobile apps using Flutter that work seamlessly on both Android and iOS. With expertise in API integration and Firebase backend services, I create user-friendly, secure, and scalable apps tailored to your needs. From sleek designs to powerful features, I ensure your app stands out and delivers an excellent user experience.</p>
 <br/>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> &nbsp; 
