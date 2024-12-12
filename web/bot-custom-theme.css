@@ -1,0 +1,77 @@
+/* Root styles */
+html, body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: #f5f5f5;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+.bpHeader {
+  background-color: #4CAF50;
+  color: #ffffff;
+  height: 60px;
+}
+
+.bpHeader .bpTitle {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bpHeader .bpSubtitle {
+  font-size: 14px;
+}
+
+/* Bot message styles */
+.bpMessage.bpIncomingMessage {
+  background-color: #eaeaea;
+  border-radius: 12px;
+  color: #333333;
+  padding: 10px;
+  font-weight: normal;
+}
+
+/* User message styles */
+.bpMessage.bpOutgoingMessage {
+  background-color: #4caf50;
+  border-radius: 12px;
+  color: #ffffff;
+  padding: 10px;
+  font-weight: normal;
+}
+
+/* Composer styles */
+.bpComposer {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #dddddd;
+  color: #333333;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.bpComposer::placeholder {
+  color: #cccccc;
+}
+
+/* Button styles */
+.bpButton {
+  background-color: #4caf50;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 16px;
+}
+
+/* Menu styles */
+.bpMenu {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #dddddd;
+  color: #333333;
+  font-size: 14px;
+  padding: 10px;
+}
