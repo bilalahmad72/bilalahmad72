@@ -100,7 +100,7 @@ I focus on Clean Architecture, modern state management, and writing code that sc
 
 <p>✔️ <b>Top Rated Plus</b> on Upwork with 100% Job Success Score</p>
 <p>✔️ <b>4+ years</b> of professional Flutter experience</p>
-<p>✔️ <b>50+ apps</b> delivered for clients across the US, UK, and worldwide</p>
+<p>✔️ <b>Multiple apps</b> delivered for clients across the US, UK, and worldwide</p>
 <p>✔️ <b>Clean Architecture</b> and SOLID principles in every project</p>
 <p>✔️ <b>All state managers mastered</b> — BLoC, Riverpod, GetX, Provider, Cubit</p>
 <p>✔️ <b>End-to-end delivery</b> — from idea to App Store / Play Store</p>
