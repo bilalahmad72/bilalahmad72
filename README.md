@@ -1,6 +1,6 @@
 # Hello, I'm <a href="https://www.linkedin.com/in/freelancer-bilalahmad72" target="_blank">Bilal Ahmad!</a> 👋
 
-### 🌟 Senior Flutter Developer | 📱 Top Rated Plus on Upwork | 🚀 Multiple Apps Delivered
+### 🌟 Senior Flutter Developer | 📱 Top Rated Plus on Upwork | 🚀 Mobile Apps Developer | AI Apps Developer
 
 ### 📖 About Me
 
