@@ -15,11 +15,6 @@
   <a href="mailto:bilalahmad72.official@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilalahmad72&style=for-the-badge&color=2f81f7&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Available%20for&query=status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbilalahmad72&labelColor=black" alt="status" />
-</p>
-
 ---
 
 ### 🚀 About Me
