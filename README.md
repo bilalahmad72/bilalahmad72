@@ -130,13 +130,13 @@ Working on authentication architecture (AuthCubit, GoRouter, Clean Architecture 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalahmad72&bg_color=00000000&color=2f81f7&line=2f81f7&point=e3b341&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
-<!--START_SECTION:waka-->
-<!-- Optional: enable a Snake contribution animation by adding the workflow below to
-     .github/workflows/snake.yml — it auto-generates a dark/light snake GIF of your
-     contribution graph on every push. Then embed it here:
-     <img src="https://raw.githubusercontent.com/bilalahmad72/bilalahmad72/output/github-contribution-grid-snake-dark.svg" />
--->
-<!--END_SECTION:waka-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilalahmad72/bilalahmad72/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilalahmad72/bilalahmad72/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bilalahmad72/bilalahmad72/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
