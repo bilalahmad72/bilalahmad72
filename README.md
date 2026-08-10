@@ -32,8 +32,8 @@ Senior Flutter Developer with 3+ years building production mobile apps. I specia
 👯 Looking to collaborate: Open-source Flutter packages and clean architecture boilerplates
 🤔 Looking for help with:  Scaling backend architecture for high-traffic Flutter apps
 💬 Ask me about:           Flutter, Dart, Clean Architecture, Riverpod/BLoC, GoRouter, CI/CD, API Integration
-😄 Pronouns:                he/him
-⚡ Fun fact:                I run multiple AI-animated Facebook pages alongside my dev work
+😄 Pronouns:               he/him
+⚡ Fun fact:               I run multiple AI-animated Facebook pages alongside my dev work
 ```
 
 ---
