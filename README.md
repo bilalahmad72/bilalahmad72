@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/bilalahmad72">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=200&section=header&text=Hello!%20I'm%20Bilal%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Top%20Rated%20Plus%20on%20Upwork&descAlignY=58&descSize=18" alt="Header banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FFD500&height=200&section=header&text=Hello!%20I'm%20Bilal%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Top%20Rated%20Plus%20on%20Upwork&descAlignY=58&descSize=18" alt="Header banner" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Building+production+Flutter+apps+%E2%80%94+now+supercharged+with+vibe+coding;Clean+Architecture+%E2%80%A2+Riverpod+%E2%80%A2+BLoC+%E2%80%A2+GraphQL;REST+%2F+GraphQL+APIs+%E2%80%A2+Custom+Animations+%E2%80%A2+CI%2FCD" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD500&center=true&vCenter=true&width=900&height=45&lines=Building+production+Flutter+apps+%E2%80%94+now+supercharged+with+vibe+coding;Clean+Architecture+%E2%80%A2+Riverpod+%E2%80%A2+BLoC+%E2%80%A2+GraphQL;REST+%2F+GraphQL+APIs+%E2%80%A2+Custom+Animations+%E2%80%A2+CI%2FCD" alt="Typing headlines" />
 </p>
 
 <p align="center">
@@ -109,20 +109,11 @@ Working on authentication architecture (AuthCubit, GoRouter, Clean Architecture 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bilalahmad72&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bilalahmad72&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bilalahmad72&layout=compact&theme=tokyonight&title_color=FFD500&icon_color=FFD500&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalahmad72&theme=tokyonight&hide_border=true&background=00000000&ring=2f81f7&fire=e3b341" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=bilalahmad72&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalahmad72&bg_color=00000000&color=2f81f7&line=2f81f7&point=e3b341&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalahmad72&bg_color=00000000&color=FFD500&line=FFD500&point=FFD500&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
@@ -157,5 +148,5 @@ Working on authentication architecture (AuthCubit, GoRouter, Clean Architecture 
 <p align="center">⭐️ If you find my work valuable, consider starring my repositories!</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD500,100:0d1117&height=100&section=footer" alt="Footer wave" />
 </p>
