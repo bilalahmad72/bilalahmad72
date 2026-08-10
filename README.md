@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+production+Flutter+apps+%E2%80%94+now+supercharged+with+vibe+coding;Clean+Architecture+%E2%80%A2+Riverpod+%E2%80%A2+BLoC+%E2%80%A2+GraphQL;REST+%2F+GraphQL+APIs+%E2%80%A2+Custom+Animations+%E2%80%A2+CI%2FCD" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+production+Flutter+apps+%E2%80%94+now+supercharged+with+vibe+coding;Clean+Architecture+%E2%80%A2+Riverpod+%E2%80%A2+BLoC+%E2%80%A2+GraphQL;REST+%2F+GraphQL+APIs+%E2%80%A2+Custom+Animations+%E2%80%A2+CI%2FCD" alt="Typing headlines" />
 </p>
 
 <p align="center">
