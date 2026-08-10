@@ -123,7 +123,7 @@ Working on authentication architecture (AuthCubit, GoRouter, Clean Architecture 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bilalahmad72&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=bilalahmad72&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 <p align="center">
