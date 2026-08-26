@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-Senior Flutter Developer with 3+ years building production mobile apps. I specialize in Clean Architecture, REST & GraphQL API integration, and custom Flutter animations that make UIs feel alive. Comfortable across Riverpod, BLoC, and Provider — and increasingly exploring vibe coding with Claude Code, Codex, Antigravity & Cursor to ship faster without losing code quality.
+Senior Flutter Developer with 4+ years building production mobile apps. I specialize in Clean Architecture, REST & GraphQL API integration, and custom Flutter animations that make UIs feel alive. Comfortable across Riverpod, BLoC, and Provider — and increasingly exploring vibe coding with Claude Code, Codex, Antigravity & Cursor to ship faster without losing code quality.
 
 ```yaml
 🔭 Currently working on:   EXP OS Cross-Platform app, plus freelance Flutter contracts via Upwork & Fiverr
@@ -110,10 +110,6 @@ Working on authentication architecture (AuthCubit, GoRouter, Clean Architecture 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bilalahmad72&layout=compact&theme=tokyonight&title_color=FFD500&icon_color=FFD500&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalahmad72&bg_color=00000000&color=FFD500&line=FFD500&point=FFD500&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
