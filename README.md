@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bilalahmad72.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FFD500&height=200&section=header&text=Hello!%20I'm%20Bilal%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Top%20Rated%20Plus%20on%20Upwork&descAlignY=58&descSize=18" alt="Header banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FFD500&height=200&section=header&text=Hello!%20I'm%20Bilal%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Top%20Rated%20Plus%20on%20Upwork&descAlignY=58&descSize=18" alt="Header banner" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-Senior Flutter Developer with **4+ years** building production mobile apps across **8 roles in 6 countries**. I specialize in Clean Architecture, REST & GraphQL API integration, and custom Flutter animations that make UIs feel alive. Comfortable across Riverpod, BLoC, Cubit and Provider — and increasingly exploring **vibe coding** with Claude Code, Codex, Antigravity & Cursor to ship faster without losing code quality.
+Flutter Developer with **4+ years** building production mobile apps across **8 roles in 6 countries**. I specialize in Clean Architecture, REST & GraphQL API integration, and custom Flutter animations that make UIs feel alive. Comfortable across Riverpod, BLoC, Cubit and Provider — and increasingly exploring **vibe coding** with Claude Code, Codex, Antigravity & Cursor to ship faster without losing code quality.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Live%20Apps-6%2B-FFD500?style=flat-square&labelColor=0d1117" />
