@@ -250,7 +250,7 @@ Transfers, mobile money, virtual cards and payments. Scope mirrored ORIZON: full
 
 ### 📫 Let's Build Something Great
 
-<p align="center">Have a Flutter project, MVP, or app idea in mind? I'd love to hear about it.<br/>Typical reply time: <b>under 12 hours</b>.</p>
+<p align="center">Have a Flutter project, MVP, or app idea in mind? I'd love to hear about it.<br/>Typical reply time: <b>under 1-2 hours</b>.</p>
 
 <p align="center">
   <a href="https://bilalahmad72.com" target="_blank"><img src="https://img.shields.io/badge/View%20Portfolio-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
